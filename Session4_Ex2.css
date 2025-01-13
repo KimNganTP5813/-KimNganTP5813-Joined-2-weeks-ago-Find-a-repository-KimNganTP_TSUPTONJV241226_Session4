@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    background-color: gray;
+    color: azure;
+    padding: 15px;
+}
+
+nav {
+    background-color: lightgray;
+    text-align: center;
+    padding: 10px 0 10px 0;
+}
+
+nav a {
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    padding: 25px;
+}
+
+nav a:hover {
+    color:cadetblue;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
