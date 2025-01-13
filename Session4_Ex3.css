@@ -1,0 +1,20 @@
+#main {
+    padding-left: 30px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+button {
+    background-color: forestgreen;
+    color: white;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    padding: 10px 140px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
