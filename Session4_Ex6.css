@@ -1,0 +1,42 @@
+* {
+    margin: 0
+    padding: 0
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #222;
+}
+
+#menu ul {
+    background-color: grey;
+    list-style-type: none;
+    padding: 0;
+    width: 200px;
+    height: 400px;
+    text-align: left;
+}
+
+#menu li {
+    width: auto;
+    height: 45px;
+    line-height: 45px;
+    padding: 5px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    display: block;
+}
+
+#menu li:hover  {
+    background-color:  forestgreen;
+}
+
+#main {
+    position: absolute;
+    top: 0;
+    left: 250px;
+}
