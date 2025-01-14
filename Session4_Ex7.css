@@ -1,0 +1,71 @@
+h1 {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 span {
+    color: aqua;
+}
+
+.p1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    height: 40px;
+}
+
+li{
+    display: inline;
+}
+
+.button1 button {
+    background-color: darkslategrey;
+    color: azure;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+.span1 {
+    color: brown;
+    font-weight: 600;
+}
+
+h3 {
+    padding: 5px 100px;
+}
+
+label {
+    display: block;
+}
+
+#cv {
+    border-style:groove;
+}
+
+input {
+    width: 300px;
+}
+
+textarea {
+    display: block;
+    position: relative;
+}
+
+.send {
+    background-color: black;
+    color: azure;
+    position: relative;
+    top: 10px;
+    padding: 10px 138px;
+}
